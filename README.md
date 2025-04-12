@@ -1,2 +1,2 @@
 # BitWrite-Framework-official
-A modern and modular rewrite of the BitWrite Framework, designed for building scalable, maintainable, and high-performance distributed systems using clean architecture principles, CQRS, event-driven design, and DDD.
+A modular and extensible .NET framework for building modern, scalable, and maintainable applications using Clean Architecture, CQRS, DDD, and Event-Driven Design principles.
